@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm AuroraAria 👋
 
-<!--
-**AuroraEvelynAria/AuroraEvelynAria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Indie Developer | AI Tech Enthusiast | Open Source Advocate**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm currently focusing on building **Spring-Haven**, an open-source, local-first AI-driven life simulator game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **I’m currently working on:** [Spring-Haven](https://github.com/AuroraEvelynAria/Spring-Haven)
+- 🌱 **Tech Stack:** Godot 4, Python, Local LLMs
+- 🎨 **Hobbies:** AI Art Generation (You can find my AI art on [Pixiv](你的Pixiv链接))
+- 💬 **Ask me about:** AI agents, Godot dev, or prompt engineering
+- ⚡ **Fun fact:** I use AI to generate visuals for my aesthetic practice and model testing. Strictly non-commercial!
+
+---
+*(Optional: Add some GitHub stats here later)*
